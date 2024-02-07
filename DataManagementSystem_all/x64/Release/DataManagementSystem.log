@@ -1,0 +1,15 @@
+﻿  DataGraph.cpp
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.h(1,1): warning C4828: 文件包含在偏移 0x8ca 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(31,139): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(31,94): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(31,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(31,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(50,85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(50,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(50,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 831 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DataManagementSystem.vcxproj -> D:\Code\easyx-Project-C_CPP-master\DataManagementSystem_all\x64\Release\DataManagementSystem_all.exe

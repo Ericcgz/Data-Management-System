@@ -1,0 +1,63 @@
+﻿  DataGraph.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.h(1,1): warning C4828: 文件包含在偏移 0x8bd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(37,139): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(37,94): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(37,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(37,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(56,85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(56,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\DataGraph.cpp(56,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  FileData.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.h(1,1): warning C4828: 文件包含在偏移 0x8bd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.cpp(119,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.cpp(121,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.cpp(155,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.h(1,1): warning C4828: 文件包含在偏移 0x8bd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  ManageMent_gui.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\FileData.h(1,1): warning C4828: 文件包含在偏移 0x8bd 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\ManageMent_gui.cpp(40,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\ManageMent_gui.cpp(66,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\ManageMent_gui.cpp(297,11): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\ManageMent_gui.cpp(543,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BasicWidget.cpp
+  Color.cpp
+  Font.cpp
+  Image.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Image.cpp(14,49): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Image.cpp(24,52): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  LineEdit.cpp
+  pushButton.cpp
+  randomGenerator.cpp
+  Table.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(36,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(37,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(95,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(96,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(101,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(101,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(101,12): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(116,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(117,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(135,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(147,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(150,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(150,12): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(169,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(178,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(182,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(183,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(189,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(190,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(191,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(192,54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Table.cpp(200,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Timer.cpp
+  Window.cpp
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Window.cpp(31,40): warning C4311: “类型强制转换”: 从“HCURSOR”到“long”的指针截断
+C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\widgets\Window.cpp(31,40): warning C4302: “类型强制转换”: 从“HCURSOR”到“long”截断
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 831 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  StudentManagementSystem_all.vcxproj -> C:\Users\eric8\Desktop\easyx-Project-C_CPP-master\DataManagementSystem_all\x64\Release\DataManagementSystem_all.exe
